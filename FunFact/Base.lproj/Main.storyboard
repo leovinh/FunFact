@@ -46,7 +46,7 @@
                                     <action selector="showFunFact" destination="BYZ-38-t0r" eventType="touchUpInside" id="ye5-R7-cff"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Did you know?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dpe-Ag-d7a">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Thích xem gì?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dpe-Ag-d7a">
                                 <rect key="frame" x="48" y="33" width="114" height="21"/>
                                 <animations/>
                                 <constraints>
