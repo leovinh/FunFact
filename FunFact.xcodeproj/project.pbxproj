@@ -14,6 +14,7 @@
 		B4DE85311BDF60C300E80C62 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B4DE852F1BDF60C300E80C62 /* LaunchScreen.storyboard */; };
 		B4DE853C1BDF60C300E80C62 /* FunFactTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4DE853B1BDF60C300E80C62 /* FunFactTests.swift */; };
 		B4DE85471BDF60C300E80C62 /* FunFactUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4DE85461BDF60C300E80C62 /* FunFactUITests.swift */; };
+		B4EC597D1BE75984001CDCD9 /* ColorWheel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4EC597C1BE75984001CDCD9 /* ColorWheel.swift */; };
 		B4FB16071BE32DD500F7920E /* FactBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4FB16061BE32DD500F7920E /* FactBook.swift */; };
 /* End PBXBuildFile section */
 
@@ -49,6 +50,7 @@
 		B4DE85461BDF60C300E80C62 /* FunFactUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunFactUITests.swift; sourceTree = "<group>"; };
 		B4DE85481BDF60C300E80C62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B4DE85551BDF62F100E80C62 /* Sratchpad.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Sratchpad.playground; sourceTree = "<group>"; };
+		B4EC597C1BE75984001CDCD9 /* ColorWheel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorWheel.swift; sourceTree = "<group>"; };
 		B4FB16061BE32DD500F7920E /* FactBook.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FactBook.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -104,6 +106,7 @@
 				B4DE85261BDF60C300E80C62 /* AppDelegate.swift */,
 				B4DE85281BDF60C300E80C62 /* ViewController.swift */,
 				B4FB16061BE32DD500F7920E /* FactBook.swift */,
+				B4EC597C1BE75984001CDCD9 /* ColorWheel.swift */,
 				B4DE852A1BDF60C300E80C62 /* Main.storyboard */,
 				B4DE852D1BDF60C300E80C62 /* Assets.xcassets */,
 				B4DE852F1BDF60C300E80C62 /* LaunchScreen.storyboard */,
@@ -272,6 +275,7 @@
 				B4FB16071BE32DD500F7920E /* FactBook.swift in Sources */,
 				B4DE85291BDF60C300E80C62 /* ViewController.swift in Sources */,
 				B4DE85271BDF60C300E80C62 /* AppDelegate.swift in Sources */,
+				B4EC597D1BE75984001CDCD9 /* ColorWheel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
